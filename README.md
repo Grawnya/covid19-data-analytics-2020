@@ -1,4 +1,4 @@
-# covid2020-data-analytics
+# covid2019-data-analytics-2020
 Data Analysis of the First Year of the COVID-19 Pandemic utilising both the Google and Apple datasets available
 
 Sample Graphs were created as can been below:
